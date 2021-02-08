@@ -24,8 +24,35 @@ In this Project, We Have created an Basic College Website Sample Using Html & Cs
 
 # Simple-College-website
 
-> A simple website with a blog
+> A simple website with a College Information
 
-`simple-website-with-blog` is a simple [Node.js](https://nodejs.org/) web application for static content that includes a blog.
+`simple-website-college` is a simple [html](https://nodejs.org/) web application for static content that includes a college informative content.
 It was created as the basis for [my own website](https://dlaa.me/), but everyone is welcome to use it.
 The implementation strives to be simple and free of unnecessary dependencies.
+
+
+## Goals
+
+- An easy way to create a simple, secure website with a Informative Content
+- Support for text-based and photo-based blog formats
+- Easy authoring in HTML, Markdown (with code formatting), or JSON
+- Easy customization of site layout and formatting
+- High resolution (2x) support for photo blog images
+- Simple post format that separates content and metadata
+- Support for archive links and tagging of posts by category
+- Quick search of post content, including simple search queries
+- Automatic cross-linking of related posts
+- No JavaScript requirement for client browsers
+
+
+
+## Structure
+
+- `/img` Entry point for the Images, all Images should be placed in this folder
+- `/about.html` Implementation of the information about the college and shows recent posts
+- `/recent.html` Implement the Recent posts and show the static content
+- `/syle.css` Responsible for complete styling of Basic website, all styles are implemented here
+- `/index.html` Implemented a home page where all information is listed
+
+
+
