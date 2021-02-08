@@ -7,6 +7,12 @@ In this Project, We Have created an Basic College Website Sample Using Html & Cs
 
 
 
+# Playground to test
+
+[Cegep Basic College Website](https:/cegep-project.github.io)
+
+
+
 # Contributer
 
 
@@ -27,7 +33,7 @@ In this Project, We Have created an Basic College Website Sample Using Html & Cs
 > A simple website with a College Information
 
 `simple-website-college` is a simple [html](https://en.wikipedia.org/wiki/HTML) web application for static content that includes a college informative content.
-It was created as the basis for [my own website](https:/cegep-project.github.io), but everyone is welcome to use it.
+It was created as the basis for [Our Project](https:/cegep-project.github.io), but everyone is welcome to use it.
 The implementation strives to be simple and free of unnecessary dependencies.
 
 
