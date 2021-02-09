@@ -16,7 +16,7 @@ In this Project, We Have created an Basic College Website Sample Using Html & Cs
 # Contributer
 
 
-<table>
+ <table>
   <tr>
     <td align="center"><a href="https://github.com/notty-geek"><img src="https://avatars.githubusercontent.com/u/14343387?v=4 width="100px;" alt=""/><br /><sub><b>Sahil Girdhar</b></sub></a><br /><a href="https://github.com/notty-geek" title="UserName">💬</a><a href="https://github.com/notty-geek/IosFirstApp/" title="Reviewed Pull Requests">👀</a> </td>
 <td align="center"><a href="https://github.com/Z3N00"><img src="https://avatars.githubusercontent.com/u/31339403?v=4 width="100px;" alt=""/><br /><sub><b>Kartik Gupta</b></sub></a><br /><a href="https://github.com/Z3N00" title="UserName">💬</a><a href="https://github.com/notty-geek/IosFirstApp/" title="Reviewed Pull Requests">👀</a> </td>
@@ -48,7 +48,7 @@ The implementation strives to be simple and free of unnecessary dependencies.
 - Support for archive links and tagging of posts by category
 - Quick search of post content, including simple search queries
 - Automatic cross-linking of related posts
-- No JavaScript requirement for client browsers
+- There is no requirement of Javascript  to for client browsers
 
 
 
